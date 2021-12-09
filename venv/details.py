@@ -1,3 +1,4 @@
+# start
 name = input("PLEASE ENTER YOUR NAME: ")
 age = input("PLEASE ENTER YOUR AGE: ")
 address = input("PLEASE ENTER YOUR ADDRESS: ")
