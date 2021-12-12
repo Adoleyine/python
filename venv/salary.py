@@ -15,8 +15,8 @@ if (gender == 'm' or gender == 'M' and number_children > 3):
         edu_fund = (number_children - 3) * 10
     else:
         gross_pay = number_hours * 500 + (number_hours - 40) * 1.5
-        edu_fund = (number_children - 3) * 10
 elif (gender == 'f' or gender == 'F' and number_children > 3):
+        edu_fund = (number_children - 3) * 10
     if (number_hours <= 40):
         gross_pay = number_hours * 550
         edu_fund = (number_children - 3) * 20
